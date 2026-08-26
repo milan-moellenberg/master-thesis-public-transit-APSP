@@ -10,7 +10,7 @@ This repository contains the full Master's thesis PDF and project resources focu
 ## Key Highlights & Focus Areas
 * **Language/Tools:** C++, Graph Theory, Combinatorial Optimization, Algorithmic Profiling.
 * **Core Problem:** Efficient route optimization under real-world logistical constraints.
-* **Implementation:** High-efficiency C++ algorithms evaluated on large-scale transport datasets.
+* **Implementation:** High-efficiency C++ APSP heuristic evaluated on large-scale transport datasets.
 
 ---
-*Note: C++ source code and performance benchmarks are currently being refactored for public release.*
+*Note: C++ source code and performance benchmarks are currently being refactored for public release. Also no code will be posted yet until I get official permission by the ZIB *
