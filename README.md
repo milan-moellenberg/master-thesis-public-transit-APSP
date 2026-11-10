@@ -13,4 +13,4 @@ This repository contains the full Master's thesis PDF and project resources focu
 * **Implementation:** High-efficiency C++ APSP heuristic evaluated on large-scale transport datasets.
 
 ---
-*Note: C++ source code and performance benchmarks are currently being refactored for public release. Also no code will be posted yet until I get official permission by the ZIB *
+*Note: C++ source code cannot be posted due to my contract with the ZIB *
